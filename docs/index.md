@@ -5,3 +5,4 @@ Thanks for dropping by. These pages are dedicated to systematically approaching 
 * [Home](https://lee-coates.github.io/pi-docs/)
 * [Goals](https://lee-coates.github.io/pi-docs/goals)
 * [Contributing](https://lee-coates.github.io/pi-docs/contributing)
+* [Day 1 on a Pi](https://lee-coates.github.io/pi-docs/day-1/)
