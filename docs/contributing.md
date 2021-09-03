@@ -46,3 +46,4 @@ This Code of Conduct applies to all work and communications done in any form, wh
 
 #### Attribution
 Many thanks to the various codes of conduct that were used as inspiration to this one, especially the [Contributors Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
+
