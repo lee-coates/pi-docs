@@ -1,0 +1,12 @@
+# Site Navigation links
+- title: Home
+  url: /
+  
+- title: Goals
+  url: /goals
+  
+- title: Contributing
+  url: /contributing
+
+- title: Day 1 on a Pi
+  url: /day-1/
