@@ -4,5 +4,5 @@ Thanks for dropping by. These pages are dedicated to systematically approaching 
 ## Table of Contents
 * [Home](https://lee-coates.github.io/pi-docs/)
 * [Goals](https://lee-coates.github.io/pi-docs/goals)
-* [Contributing](https://lee-coates.github.io/pi-docs/contributing)
+* [Contributing](https://lee-coates.github.io/pi-docs/contribute)
 * [Day 1 on a Pi](https://lee-coates.github.io/pi-docs/day-1/)
