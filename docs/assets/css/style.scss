@@ -2,16 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-#main-content 
-  h1:before {
+#main-content h1:before {
     content: "";
-  },
-  h2:before {
-    content: "";
-  },
-  h3:before {
-    content: "";
-  },
-  h4:before {
-    content: "";
-  }
+}
