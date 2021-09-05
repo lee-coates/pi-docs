@@ -2,6 +2,17 @@
 ---
 
 @import "{{ site.theme }}";
-#main-content h1:before h2:before h3:before h4:before {
-  content: "";
+#main-content {
+  h1:before {
+    content: "";
+  },
+  h2:before {
+    content: "";
+  },
+  h3:before {
+    content: "";
+  },
+  h4:before {
+    content: "";
+  }
 }
