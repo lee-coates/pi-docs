@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-#main-content {
+#main-content 
   h1:before {
     content: "";
   },
@@ -15,4 +15,3 @@
   h4:before {
     content: "";
   }
-}
