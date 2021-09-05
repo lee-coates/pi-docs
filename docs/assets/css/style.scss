@@ -2,8 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-#main-content {
-  h1 {
-   text-align: center
- }
+#main-content h1:before {
+  content: "";
 }
