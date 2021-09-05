@@ -3,8 +3,10 @@ Thanks for dropping by. These pages are dedicated to systematically approaching 
 
 ## Table of Contents
 {% for item in site.data.navigation.toc %}
-    ### {{ item.title }}
+    <h3>{{ item.title }}</h3>
+      <ul>
         {% for entry in item.subfolderitems %}
-          -({{ entry.url }})[{{ entry.page }}]
+          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
         {% endfor %}
+      </ul>
   {% endfor %}
