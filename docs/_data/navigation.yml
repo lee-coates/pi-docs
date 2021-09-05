@@ -1,12 +1,35 @@
-# Site Navigation links
-- title: Home
-  url: /
-  
-- title: Goals
-  url: /goals
-  
-- title: Contributing
-  url: /contributing
-
-- title: Day 1 on a Pi
-  url: /day-1/
+toc:
+  - title: Home
+    subfolderitems:
+      - page: Home
+        url: /
+      - page: Goals
+        url: /goals
+      - page: Contributing
+        url: /contribute
+  - title: Day 1 on a Pi
+    subfolderitems:
+      - page: Day 1
+        url: /day-1/
+      - page: SSD Boot
+        url: /ssd-boot
+      - page: Default Raspbian Setup
+        url: /default-raspbian-setup
+      - page: Theming
+        url: /theming
+      - page: External Devices
+        url: /external-devices
+      - page: Backups on Day 1
+        url: /backups-day-1
+  - title: Backups
+    subfolderitems:
+      - page: Backups
+        url: /backups/
+  - title: Desktop Environments
+    subfolderitems:
+      - page: Desktop Environments
+        url: /desktop-environments/
+  - title: Containerization
+    subfolderitems:
+      - page: Containers on the Pi
+        url: /containerization/
