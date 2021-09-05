@@ -2,7 +2,11 @@
 Thanks for dropping by. These pages are dedicated to systematically approaching the pi as a personal computer. I'm cataloging important steps to help myself later and maybe even help some others.
 
 ## Table of Contents
-* [Home](https://lee-coates.github.io/pi-docs/)
-* [Goals](https://lee-coates.github.io/pi-docs/goals)
-* [Contributing](https://lee-coates.github.io/pi-docs/contribute)
-* [Day 1 on a Pi](https://lee-coates.github.io/pi-docs/day-1/)
+{% for item in site.data.navigation.toc %}
+    <h3>{{ item.title }}</h3>
+      <ul>
+        {% for entry in item.subfolderitems %}
+          <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+        {% endfor %}
+      </ul>
+  {% endfor %}
