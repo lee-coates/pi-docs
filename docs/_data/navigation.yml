@@ -2,34 +2,34 @@ toc:
   - title: Home
     subfolderitems:
       - page: Home
-        url: /
+        url: /pi-docs/
       - page: Goals
-        url: /goals
+        url: /pi-docs/goals
       - page: Contributing
-        url: /contribute
+        url: /pi-docs/contribute
   - title: Day 1 on a Pi
     subfolderitems:
       - page: Day 1
-        url: /day-1/
+        url: /pi-docs/day-1/
       - page: SSD Boot
-        url: /ssd-boot
+        url: /pi-docs/day-1/ssd-boot
       - page: Default Raspbian Setup
-        url: /default-raspbian-setup
+        url: /pi-docs/day-1/default-raspbian-setup
       - page: Theming
-        url: /theming
+        url: /pi-docs/day-1/theming
       - page: External Devices
-        url: /external-devices
+        url: /pi-docs/day-1/external-devices
       - page: Backups on Day 1
-        url: /backups-day-1
+        url: /pi-docs/day-1/backups-day-1
   - title: Backups
     subfolderitems:
       - page: Backups
-        url: /backups/
+        url: /pi-docs/backups/
   - title: Desktop Environments
     subfolderitems:
       - page: Desktop Environments
-        url: /desktop-environments/
+        url: /pi-docs/desktop-environments/
   - title: Containerization
     subfolderitems:
       - page: Containers on the Pi
-        url: /containerization/
+        url: /pi-docs/containerization/
