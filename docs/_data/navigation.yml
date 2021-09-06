@@ -9,7 +9,7 @@ toc:
         url: /pi-docs/contribute
   - title: Day 1 on a Pi
     subfolderitems:
-      - page: Day 1
+      - page: Day 1 on a Pi
         url: /pi-docs/day-1/
       - page: SSD Boot
         url: /pi-docs/day-1/ssd-boot
